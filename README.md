@@ -1,6 +1,6 @@
 # 🔧 Installation
 - Step 1
-```shell
+```js
 npm install
 ```
 - Step 2
@@ -8,7 +8,7 @@ npm install
 Fill in the empty spaces in the /config.js file.
 ```
 - Step 3
-```shell
+```js
 Start the bot with the /start.bat file OR “node .”
 ```
 # ❤️ Thanks for looking at the repo!
